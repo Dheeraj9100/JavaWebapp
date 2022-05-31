@@ -1,0 +1,4 @@
+sonar.organization=javaapp11
+sonar.projectKey=Javaapp
+sonar.host.url=https://sonarcloud.io
+sonar.login=e2d4e9de7f585619da610aae6d64687b3a579fea
