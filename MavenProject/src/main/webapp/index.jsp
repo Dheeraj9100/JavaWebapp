@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Version 1.0.0</h2>
+<h2>Gud mrng!</h2>
 </body>
 </html>
